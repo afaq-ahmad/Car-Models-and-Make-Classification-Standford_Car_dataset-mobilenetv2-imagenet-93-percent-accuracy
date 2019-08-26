@@ -4,7 +4,7 @@ Car Models and Make Classification Standford_Car_dataset mobilenetv2 imagenet 93
 Libraries Required:
         
           -Tensorflow
-          -Kera
+          -Keras
           -Numpy
           -Pickle
 
