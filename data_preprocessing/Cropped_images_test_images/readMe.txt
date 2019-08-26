@@ -1,0 +1,1 @@
+Test Images cropped will be saved in this folder when you run data_preprocessing.ipynb code
