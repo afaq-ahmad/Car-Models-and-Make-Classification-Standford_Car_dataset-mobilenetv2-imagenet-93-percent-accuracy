@@ -23,5 +23,3 @@ Libraries Required:
 3. Run the Car_classification.ipynb code and train the model, it will save the weights in models that can be use in the testing.
 
 
-#### Support:
-Bitcoin: 3QFpMuvMcMaZ6cQUHqgrd2mDirz1JZi1W8
